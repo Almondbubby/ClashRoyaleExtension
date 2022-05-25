@@ -1,0 +1,9 @@
+{
+    "name": "Clash Stats",
+    "description": "Chrome Extension that Displays Clash Royale Statistics",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+      
+    }
+  }
