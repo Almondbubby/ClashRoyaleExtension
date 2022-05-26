@@ -1,9 +1,15 @@
 {
-    "name": "Clash Stats",
-    "description": "Chrome Extension that Displays Clash Royale Statistics",
-    "version": "1.0",
-    "manifest_version": 3,
-    "background": {
+  "name": "Clash Stats",
+  "version": "1.0.0",
+  "description": "Extension that tracks Clash Royale player data",
+  "manifest_version": 3,
+  "author": "Almondbubby",
+  "web_accessible_resources": [
       
-    }
+  ],
+  "action":{
+      "default_popup": "index.html",
+      "default_title": "Clash Royale"
   }
+
+}
